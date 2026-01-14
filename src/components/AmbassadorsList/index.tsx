@@ -929,6 +929,17 @@ const ambassadors: Ambassador[] = [
     linkedin: "sofia-stamouli-a22b5477",
   },
   {
+  name: "Soha Hassan",
+  img: "soha-hassan.jpg",
+  country: "eg",
+  github: "Sohahassan866",
+  linkedin: "soha-hassan-9151871b8",
+  title: "Nextflow Ambassador",
+  children:
+    "Bioinformatics researcher interested in reproducible workflows and scalable genomic analysis using Nextflow, with a strong interest in open science and community-driven bioinformatics.",
+},
+
+  {
     name: "Thai-Huy Tran",
     img: "thai-huytran.jpg",
     country: "vn",
